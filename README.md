@@ -16,6 +16,3 @@ Filmes e Séries interessantes para assistir nas horas vagas.
 - **Falcão e o Soldado Invernal**
 
   ​          Falcão e o Soldado Invernal são obrigados a formar uma dupla incompatível e embarcarem em uma aventura global que deve testar tanto suas habilidades de sobrevivência quanto sua paciência.
-
-  
-
