@@ -7,7 +7,7 @@ Filmes e Séries interessantes para assistir nas horas vagas.
 
 - **Homem-Aranha: Sem Volta para Casa**
 
-  ​          O Homem-Aranha precisa lidar com as consequências da sua verdadeira identidade ter sido descoberta.
+  ​          O Homem-Aranha precisa lidar com as consequências da sua verdadeira identidade ter sido revelada.
 
 - **Demolidor**
 
